@@ -1,13 +1,16 @@
 # myvimre_setting
 ## Use this
-1. clone this repository  
+1.Change your home directory
   
-    `git clone https://github.com/dossey615/myvimre_setting.git`  
+    `cd ~/`  
   
-2. cp .vimrc to home  
+2.Clone this repository  
   
-    `cp myvimre_setting/.vimrc ~/`  
+    `git clone https://github.com/dossey615/dotfiles.git`  
   
-3. Operation check  
+3.Change your home directory
   
-    `vim hogehoge.txt`
+    `vim hogehoge.txt`   
+  
+
+  
