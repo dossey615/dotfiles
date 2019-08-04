@@ -8,7 +8,7 @@
   
     `git clone https://github.com/dossey615/dotfiles.git`  
   
-3.Change your home directory
+3.Operation check
   
     `vim hogehoge.txt`   
   
