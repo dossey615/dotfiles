@@ -1,4 +1,4 @@
-# myvimre_setting
+# myvimrc_setting
 ## Use this
 1.Change your home directory
   
